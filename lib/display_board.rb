@@ -7,4 +7,4 @@ def display_board(board)
   puts "-----------"
   puts " #{board[6]} | #{board[7]} | #{board[8]} "# Define display_board that accepts a board and prints
 end
-print display_board
+display_board(board)
